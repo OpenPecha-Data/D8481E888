@@ -2626,6 +2626,7 @@ annotations:
     span:
       start: 511578
       end: 512987
+    note_ref: daccef9fa8f74035a21bf502f74e8f93
   b82032398cf94b82911bcef793a55dde:
     imgnum: 397
     reference: ''
